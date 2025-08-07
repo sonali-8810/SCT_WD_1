@@ -7,6 +7,12 @@ This project is a responsive landing page with a fixed navigation menu.The navig
 Features
 
 -> Responsive design for all screen sizes
+
+
 -> Fixed navigation bar visible on all pages
+
+
 -> Style changes on scroll and hover
+
+
 -> Clean and well structured code using HTML,CSS.
